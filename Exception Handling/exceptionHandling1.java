@@ -1,4 +1,4 @@
-class ehand1{
+class exceptionHandling1{
     public static void main(String[] args) {
         try{
             System.out.println("try");
